@@ -6,6 +6,8 @@ now then
 ##### H5
 ###### H6
 
+![pic](./osinfo.png)
+
 Alternatively, for H1 and H2, an underline-ish style:
 
 Alt-H1
